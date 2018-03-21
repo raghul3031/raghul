@@ -1,0 +1,16 @@
+#include<studio.h>
+void main()
+  {
+    int n;
+      printf("enter the number");
+      scanf("%d",&n);
+      if(1<=n<=1000000)
+        {
+          printf("positive");
+         }
+        else
+        {
+          printf("zero");
+         }
+     }
+    
